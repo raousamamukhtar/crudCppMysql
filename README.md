@@ -38,3 +38,21 @@ CREATE TABLE user (
 INSERT INTO user (name, email) VALUES
 ('Alice', 'alice@example.com'),
 ('Bob', 'bob@example.com');
+
+
+
+
+### 👤 Author
+
+**M. Usama Mukhtar**  
+🎓 Computer Science Student | Full Stack Developer  
+🏢 Currently at: **Pismida**  
+🎯 Passionate about building software that empowers people and creates opportunities for young Pakistanis to thrive in tech.
+
+- 📧 **Email**: [f2024-0844@bnu.edu.pk](mailto:f2024-0844@bnu.edu.pk)  
+- 🌐 **GitHub**: [github.com/usamamukhtar](https://github.com/usamamukhtar)  
+- 📱 **Phone**: `03126336271`  
+- 📍 **Location**: Lahore, Pakistan
+
+> _“Empowering the next generation of developers through innovation and education.”_
+

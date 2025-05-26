@@ -1,6 +1,6 @@
 # 🚀 C++ MySQL DB connection 
 
-This project connects a MySQL database with a C++ backend and exposes the data using an HTTP API using the **Crow** C++ web framework.
+This project connects a MySQL database with a C++ backend.
 
 ---
 
